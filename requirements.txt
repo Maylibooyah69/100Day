@@ -1,0 +1,8 @@
+PyMuPDF>=1.24.0
+pytesseract>=0.3.10
+pdf2image>=1.17.0
+Pillow>=10.0.0
+sentence-transformers>=3.0.0
+surrealdb>=1.0.0
+rich>=13.0.0
+click>=8.1.0
